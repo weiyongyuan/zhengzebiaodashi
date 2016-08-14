@@ -1,0 +1,11 @@
+<td align="center">
+<img src="http://static.ppdai.com/app_themes/images/head/nophoto_120.gif" alt="pdu1300487708" title="pdu1300487708" width="50" height="50"/><br>
+<a href="/user/pdu1300487708" target="_blank">pdu1300487708</a></td>
+<td valign="top">
+<p>真实姓名:<a href="/blacklistdetail/pdu1300487708" title="罗国华" target="_blank">罗国华</a></p>
+<p>手机号码:15988070***</p>
+</td>
+<td valign="top">
+<p>累计借入本金:&#165;675.00</p>
+<p>最大逾期天数:30</p>
+</td>
